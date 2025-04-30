@@ -3,4 +3,4 @@
 1. Add your `OPENAI_API_KEY` to the `.env` (see
    [`.env.example`](./.env.example)).
 2. Install dependencies `npm i` or `bun i`
-3. Run `main.ts`
+3. `node main.ts` or `bun main.ts`
