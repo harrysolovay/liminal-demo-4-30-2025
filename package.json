@@ -1,0 +1,16 @@
+{
+  "name": "demo-4-30-2024",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "dprint": "^0.49.1"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.3.21",
+    "liminal": "^0.5.13",
+    "liminal-ai": "^0.0.13",
+    "liminal-zod3": "^0.0.8",
+    "zod": "^3.24.3"
+  }
+}
